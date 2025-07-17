@@ -34,7 +34,10 @@ task :update do
     "amd64_ubuntu-20.04",
     "amd64_debian-12",
     "amd64_debian-11",
-    "amd64_archlinux"
+    "amd64_archlinux",
+    "amd64_fedora-40",
+    "amd64_fedora-41",
+    "amd64_fedora-42"
   ]
 
   short_version = version.split(".").first(2).join(".")

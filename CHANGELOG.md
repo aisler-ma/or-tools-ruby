@@ -1,3 +1,6 @@
+## 0.16.1 (2025-07-17)
+- Added support for lib64 and fedora systems
+
 ## 0.16.0 (2025-06-19)
 
 - Updated OR-Tools to 9.14
